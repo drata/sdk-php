@@ -1,0 +1,14 @@
+{
+    "name": "drata/sdk-php",
+    "description": "Metapackage - Drata PHP SDK",
+    "type": "metapackage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Drata",
+            "email": "packages+packagist@drata.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
